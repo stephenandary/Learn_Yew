@@ -1,5 +1,7 @@
 # Yew.rs Playground
 
+CLONED FROM <https://github.com/brooks-builds/yewrs_playground>
+
 It's research time, this repo will be where I am playing around with Yew.rs and technology. I am working on this both on my personal time, and live on my [Twitch.tv](https://twitch.tv/brookzerker) stream.
 
 ## How this repo works
