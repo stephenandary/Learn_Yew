@@ -1,5 +1,5 @@
 [serve]
-port = 8081
+port = 3000
 
 [[hooks]]
 # This hook example shows running a command inside a shell. As a result, features such as variable
